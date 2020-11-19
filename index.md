@@ -1,12 +1,12 @@
 ---
-title: Jekyll Serif Theme
+title: Tag+
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Tag+ offers software development outsourcing and supports your business with one-stop IT solutions.
+intro_image: "images/illustrations/team.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Technology Advancement Group
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Tag+ offers software development outsourcing and supports your business with one-stop IT solutions.
