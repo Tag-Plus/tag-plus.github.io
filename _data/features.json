@@ -1,17 +1,17 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "description": "Instead of being a sub-contractor, we strive for true partnerships to create value and success together with our clients.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Win-win partnership",
+    "description": "We provide software development services in a flexible partnership that fits the project's budget and requirements.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Security Compliance",
+    "description": "We are devoted to our clients, and take pride in delivering high-quality, cost and time optimized services, with strict security policy.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
